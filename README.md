@@ -1,2 +1,2 @@
-# Guess-That-Color
+# Guess-That-Color!
 RGB Color Guessing Game
